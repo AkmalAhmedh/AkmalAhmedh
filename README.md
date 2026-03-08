@@ -170,3 +170,79 @@ An interactive and fun application based on riddles and quiz-style experiences.
 • Real-World Project Building
 • Problem Solving & Logic
 • Modern Frameworks and Tools
+```
+
+---
+
+## 🎯 Goals
+
+- Build more polished full-stack projects
+- Strengthen software engineering fundamentals
+- Improve backend and database design knowledge
+- Learn more about scalable application architecture
+- Collaborate on meaningful and impactful work
+- Continue growing my GitHub with better public projects
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/ACID-7" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/akmal-ahmedh" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 💡 Developer Mindset
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+</p>
+
+---
+
+## 🧠 A Little More About Me
+
+```yaml
+name: Akmal Ahmedh
+github: ACID-7
+linkedin: www.linkedin.com/in/akmal-ahmedh
+role: Computer Science Undergraduate
+focus: Full-Stack Development
+interests:
+  - Web Development
+  - Problem Solving
+  - UI/UX
+  - Practical Software Projects
+currently_learning:
+  - Modern frameworks
+  - Scalable full-stack applications
+  - Better development practices
+open_to:
+  - Collaboration
+  - Internships
+  - New opportunities
+```
+
+---
+
+## ❤️ Support My Work
+
+<p align="center">
+  If you like what I’m building, feel free to check out my repositories, leave a star, or connect with me.
+</p>
+
+---
+
+## 🙌 Thanks for Visiting
+
+<p align="center">
+  Thanks for stopping by my GitHub profile.<br>
+  I'm always learning, building, and improving.<br>
+  Let's create something awesome 🚀
+</p>
