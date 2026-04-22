@@ -2,19 +2,19 @@
 <h3 align="center">Computer Science Undergraduate • Full-Stack Developer • Building clean and modern digital experiences</h3>
 
 <p align="center">
-  <a href="https://github.com/ACID-7">
+  <a href="https://github.com/AkmalAhmedh">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=900&lines=Passionate+about+software+development;Building+modern+web+applications;Always+learning+new+technologies;Turning+ideas+into+real+projects;Open+to+collaboration+and+new+opportunities" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ACID-7">
-    <img src="https://komarev.com/ghpvc/?username=ACID-7&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <a href="https://github.com/AkmalAhmedh">
+    <img src="https://komarev.com/ghpvc/?username=AkmalAhmedh&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   </a>
-  <a href="https://github.com/ACID-7?tab=followers">
-    <img src="https://img.shields.io/github/followers/ACID-7?label=Followers&style=for-the-badge" alt="Followers" />
+  <a href="https://github.com/AkmalAhmedh?tab=followers">
+    <img src="https://img.shields.io/github/followers/AkmalAhmedh?label=Followers&style=for-the-badge" alt="Followers" />
   </a>
-  <a href="https://github.com/ACID-7?tab=repositories">
+  <a href="https://github.com/AkmalAhmedh?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-Explore-blue?style=for-the-badge&logo=github" alt="Repositories" />
   </a>
   <a href="https://www.linkedin.com/in/akmal-ahmedh">
@@ -89,7 +89,7 @@ A full-stack eco-friendly jewelry e-commerce platform with a modern UI and pract
 **Tech Stack**  
 `Next.js` `TypeScript` `Tailwind CSS` `Supabase` `shadcn/ui`
 
-🔗 **Repo:** [Plusarch-Upcycle](https://github.com/ACID-7/Plusarch-Upcycle)
+🔗 **Repo:** [Plusarch-Upcycle](https://github.com/AkmalAhmedh/Plusarch-Upcycle)
 
 ---
 
@@ -105,7 +105,7 @@ A personal portfolio site built to present my work, skills, and growth as a deve
 **Tech Stack**  
 `HTML` `CSS`
 
-🔗 **Repo:** [my-portfolio](https://github.com/ACID-7/my-portfolio)
+🔗 **Repo:** [my-portfolio](https://github.com/AkmalAhmedh/my-portfolio)
 
 ---
 
@@ -120,7 +120,7 @@ A project focused on structured problem-solving and software functionality.
 **Tech Stack**  
 `Java`
 
-🔗 **Repo:** [Tea-Management-System](https://github.com/ACID-7/Tea-Management-System)
+🔗 **Repo:** [Tea-Management-System](https://github.com/AkmalAhmedh/Tea-Management-System)
 
 ---
 
@@ -132,23 +132,23 @@ An interactive and fun application based on riddles and quiz-style experiences.
 - Simple game logic
 - Engaging idea implementation
 
-🔗 **Repo:** [Quiz-and-Riddle-App](https://github.com/ACID-7/Quiz-and-Riddle-App)
+🔗 **Repo:** [Quiz-and-Riddle-App](https://github.com/AkmalAhmedh/Quiz-and-Riddle-App)
 
 ---
 
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ACID-7&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ACID-7&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AkmalAhmedh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkmalAhmedh&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ACID-7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=AkmalAhmedh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ACID-7&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkmalAhmedh&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
@@ -156,7 +156,7 @@ An interactive and fun application based on riddles and quiz-style experiences.
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ACID-7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AkmalAhmedh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
 </p>
 
 ---
@@ -188,7 +188,7 @@ An interactive and fun application based on riddles and quiz-style experiences.
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/ACID-7" target="_blank">
+  <a href="https://github.com/AkmalAhmedh" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/akmal-ahmedh" target="_blank">
@@ -210,7 +210,7 @@ An interactive and fun application based on riddles and quiz-style experiences.
 
 ```yaml
 name: Akmal Ahmedh
-github: ACID-7
+github: AkmalAhmedh
 linkedin: www.linkedin.com/in/akmal-ahmedh
 role: Computer Science Undergraduate
 focus: Full-Stack Development
